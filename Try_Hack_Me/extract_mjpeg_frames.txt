@@ -1,0 +1,11 @@
+### **PCAP Analysis Automation – How It Works**
+
+To extract images from a `.pcap` file automatically, we used a Python script that scanned for raw JPEG image signatures inside TCP streams. Here's what the process looked like:
+
+1. **Read the PCAP**: We used Scapy, a Python library, to read and iterate through all the packets in the `.pcap` file.
+2. **Reassemble Streams**: The script grouped TCP payloads to reconstruct complete streams of data (e.g., HTTP responses).
+3. **Identify JPEG Signatures**: It searched the stream data for JPEG start (`FFD8`) and end (`FFD9`) hex signatures.
+4. **Extract and Save**: Each image found was carved out and saved as a separate `.jpg` file.
+5. **Result**: Once run, the script dumped all images into a folder—these images were likely the frames from the recovered security footage.
+
+This kind of automation is a powerful way to analyze forensic evidence efficiently. It mimics what you'd do manually in Wireshark (following streams, checking content types, carving files), but scales much better.
