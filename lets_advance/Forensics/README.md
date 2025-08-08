@@ -2,7 +2,7 @@
 
 This directory contains digital forensic artifacts, scripts, and documentation used for analyzing, recovering, and interpreting data from compromised systems or suspicious activities.
 
-## 📁 Structure
+##  Structure
 
 - `/images` - Recovered or extracted images (e.g., from disk or memory analysis)
 - `/pcaps` - Packet capture files for network traffic analysis
@@ -10,7 +10,7 @@ This directory contains digital forensic artifacts, scripts, and documentation u
 - `/scripts` - Custom tools and scripts used for forensic analysis
 - `/reports` - Case documentation and findings reports
 
-## 🔍 Usage
+##  Usage
 
 This repository supports hands-on forensic investigations including:
 - Memory analysis
