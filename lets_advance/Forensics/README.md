@@ -1,4 +1,4 @@
-# 🕵️ Forensic Files Directory
+# Forensic Files Directory
 
 This directory contains digital forensic artifacts, scripts, and documentation used for analyzing, recovering, and interpreting data from compromised systems or suspicious activities.
 
@@ -28,7 +28,7 @@ Some common tools used for analysis in this directory include:
 - **Hashcat**
 - **Log2Timeline (plaso)**
 
-## 📌 Notes
+##  Notes
 
 - Ensure you work on copies of evidence to preserve integrity.
 - Use SHA256 checksums to verify original files.
