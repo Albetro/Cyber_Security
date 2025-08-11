@@ -19,7 +19,7 @@ This repository supports hands-on forensic investigations including:
 - File system recovery
 - Timeline reconstruction
 
-## 🛠 Tools Used
+## Tools Used
 
 Some common tools used for analysis in this directory include:
 - **Wireshark**
@@ -36,4 +36,4 @@ Some common tools used for analysis in this directory include:
 
 ---
 
->  _“Every byte tells a story.”_  
+>  _“Every byte tells a story.”_
