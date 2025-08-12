@@ -10,7 +10,7 @@ This directory contains digital forensic artifacts, scripts, and documentation u
 - `/scripts` - Custom tools and scripts used for forensic analysis
 - `/reports` - Case documentation and findings reports
 
-##  Usage
+  Usage
 
 This repository supports hands-on forensic investigations including:
 - Memory analysis
@@ -19,7 +19,7 @@ This repository supports hands-on forensic investigations including:
 - File system recovery
 - Timeline reconstruction
 
-## Tools Used
+ Tools Used
 
 Some common tools used for analysis in this directory include:
 - **Wireshark**
@@ -28,12 +28,12 @@ Some common tools used for analysis in this directory include:
 - **Hashcat**
 - **Log2Timeline (plaso)**
 
-##  Notes
+  Notes
 
 - Ensure you work on copies of evidence to preserve integrity.
 - Use SHA256 checksums to verify original files.
 - All scripts are provided for educational or internal use only.
 
----
+
 
 >  _“Every byte tells a story.”_
