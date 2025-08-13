@@ -1,8 +1,8 @@
-# Forensic Files Directory
+ Forensic Files Directory
 
 This directory contains digital forensic artifacts, scripts, and documentation used for analyzing, recovering, and interpreting data from compromised systems or suspicious activities.
 
-##  Structure
+Structure
 
 - `/images` - Recovered or extracted images (e.g., from disk or memory analysis)
 - `/pcaps` - Packet capture files for network traffic analysis
