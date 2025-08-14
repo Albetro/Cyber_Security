@@ -8,7 +8,7 @@ Structure
 - `/pcaps` - Packet capture files for network traffic analysis
 - `/logs` - System, application, or audit logs
 - `/scripts` - Custom tools and scripts used for forensic analysis
-- `/reports` - Case documentation and findings reports
+- `/reports` - Case documentation and findings reports.
 
   Usage
 
