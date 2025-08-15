@@ -1,4 +1,4 @@
- Forensic Files Directory
+Forensic Files Directory
 
 This directory contains digital forensic artifacts, scripts, and documentation used for analyzing, recovering, and interpreting data from compromised systems or suspicious activities.
 
